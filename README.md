@@ -22,7 +22,7 @@ Requirements:
 4. Install library package manimce, typing in cmd: pip install manimce.
 5. Install library package manimlib, typing in cmd: pip install manimlib.
 6. Install Microsoft Visual C++ build tools, [Download here](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
-7. Open file script, press F5 for running program or typing in cmd on your projects folde KuyReview: python KuyReview.py or python3 KuyReview.py
+7. Open file script, press F5 for running program or typing in cmd on your projects folder KuyReview: python KuyReview.py or python3 KuyReview.py
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
