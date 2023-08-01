@@ -21,8 +21,9 @@ Requirements:
 3. Install library package Code Review, typing in cmd: pip install CodeReview.
 4. Install library package manimce, typing in cmd: pip install manimce.
 5. Install library package manimlib, typing in cmd: pip install manimlib.
-6. Install Microsoft Visual C++ build tools, [Download here](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
-7. Open file script, press F5 for running program or typing in cmd on your projects folder KuyReview: python KuyReview.py or python3 KuyReview.py
+6. Install Microsoft Visual C++ build tools new version and 2015 C++ build tools, [Download build tools C++ new version](https://visualstudio.microsoft.com/visual-cpp-build-tools/)[Download build tools C++ 2015](https://go.microsoft.com/fwlink/?LinkId=691126)
+7. Install library package sparse_dot_topn, typing in cmd: pip install sparse_dot_topn
+8. Open file script, press F5 for running program or typing in cmd on your projects folder KuyReview: python KuyReview.py or python3 KuyReview.py
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
