@@ -16,7 +16,7 @@ Feature:
 2. Review code from Github Repository.
 
 Requirements:
-1. Python min versi 3.7, max new version, you can download Python Programming: [Download Python Programming](https://www.python.org/downloads/)
+1. Python 3.10.9 Version: [Download Python Programming](https://www.python.org/downloads/release/python-3109/)
 2. Setting path pip, open your cmd, typing setx PATH "%PATH%; yourpath/python-install, example: setx PATH "%PATH%; C:\Users\ITMPPMINB3885\AppData\Local\Programs\Python\Python37-32\Scripts 
 3. Install library package Code Review, typing in cmd: pip install CodeReview.
 4. Install library package manimce, typing in cmd: pip install manimce.
