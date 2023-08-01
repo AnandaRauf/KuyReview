@@ -15,8 +15,9 @@ Feature:
 
 Requirements:
 1. Python min versi 3.7, max new version, you can download Python Programming: [Download Python Programming](https://www.python.org/downloads/)
-2. Install libraray package Code Review, typing in cmd: pip install CodeReview.
-3. Open file script, press F5 for running program or typing in cmd on your projects folde KuyReview: python KuyReview.py or python3 KuyReview.py
+2. Setting path pip, open your cmd, typing setx PATH "%PATH%; yourpath/python-install, example: setx PATH "%PATH%; C:\Users\ITMPPMINB3885\AppData\Local\Programs\Python\Python37-32\Scripts 
+3. Install libraray package Code Review, typing in cmd: pip install CodeReview.
+4. Open file script, press F5 for running program or typing in cmd on your projects folde KuyReview: python KuyReview.py or python3 KuyReview.py
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -27,7 +28,7 @@ Contacts Me
 E-mail: anandaraufm@gmail.com
 Whatsapp: 6283879627956 and 6285692060498
 Instagram: [Follow me](https://www.instagram.com/anandaraufm)
-Linkedin: [Lets Connect](https://www.linkedin.com/in/ananda-rauf-maududi
+Linkedin: [Lets Connect](https://www.linkedin.com/in/ananda-rauf-maududi)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
