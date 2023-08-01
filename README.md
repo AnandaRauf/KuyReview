@@ -4,7 +4,7 @@ Version 1.0.0
 
 KuyReview is Tools for review code from files and repository
 
-Developed date start: 02 Agustus 2023
+Developed date start: 02 August 2023
 
 Developed by: Ananda Rauf Maududi from PT Media Pengembangan Teknologi Indonesia Jaya or TMD Group.
 
