@@ -12,18 +12,27 @@ Team projects:
 1. [Taukhid](https://www.github.com/samCukid)
 
 Feature:
-1. Review code from file
-2. Review code from Github Repository.
+1. Review code from file(Python)
+2. Review code from file folder and Github Repository(All projects Software Development)
+
+[Screenshoot]("")
+
+Library Package CodeReview is Bug and under maintenance!
+
+Screenshoot:
+
+[!image]("")
 
 Requirements:
 1. Python 3.10.9 Version: [Download Python Programming](https://www.python.org/downloads/release/python-3109/)
 2. Setting path pip, open your cmd, typing setx PATH "%PATH%; yourpath/python-install, example: setx PATH "%PATH%; C:\Users\ITMPPMINB3885\AppData\Local\Programs\Python\Python37-32\Scripts 
 3. Install library package Code Review, typing in cmd: pip install CodeReview.
-4. Install library package manimce, typing in cmd: pip install manimce.
-5. Install library package manimlib, typing in cmd: pip install manimlib.
-6. Install Microsoft Visual C++ build tools new version and 2015 C++ build tools, [Download build tools C++ new version](https://visualstudio.microsoft.com/visual-cpp-build-tools/)[Download build tools C++ 2015](https://go.microsoft.com/fwlink/?LinkId=691126)
-7. Install library package sparse_dot_topn, typing in cmd: pip install sparse_dot_topn
-8. Open file script, press F5 for running program or typing in cmd on your projects folder KuyReview: python KuyReview.py or python3 KuyReview.py
+4. Install library package pylints, typing in cmd : pip install pylint.
+5. Install library package manimce, typing in cmd: pip install manimce.
+6. Install library package manimlib, typing in cmd: pip install manimlib.
+7. Install Microsoft Visual C++ build tools new version and 2015 C++ build tools, [Download build tools C++ new version](https://visualstudio.microsoft.com/visual-cpp-build-tools/)[Download build tools C++ 2015](https://go.microsoft.com/fwlink/?LinkId=691126)
+8. Install library package sparse_dot_topn, typing in cmd: pip install sparse_dot_topn
+9. Open file script, press F5 for running program or typing in cmd on your projects folder KuyReview: python KuyReview.py or python3 KuyReview.py
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
