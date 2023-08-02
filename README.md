@@ -15,13 +15,17 @@ Feature:
 1. Review code from file(Python)
 2. Review code from file folder and Github Repository(All projects Software Development)
 
-[Screenshoot]("")
+Result Review Code Python:
+
+![alt text](https://raw.githubusercontent.com/AnandaRauf/KuyReview/main/Screenshoot/ss8.png)
+
+[All Screenshoot]("https://github.com/AnandaRauf/KuyReview/tree/main/Screenshoot")
 
 Library Package CodeReview is Bug and under maintenance!
 
-Screenshoot:
+Screenshoot Bug CodeReview Library Package:
 
-[!image]("")
+![alt text](https://raw.githubusercontent.com/AnandaRauf/KuyReview/main/Screenshoot/ss6.png)
 
 Requirements:
 1. Python 3.10.9 Version: [Download Python Programming](https://www.python.org/downloads/release/python-3109/)
