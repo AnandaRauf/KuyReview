@@ -8,9 +8,6 @@ Developed date start: 02 August 2023
 
 Developed by: Ananda Rauf Maududi from PT Media Pengembangan Teknologi Indonesia Jaya or TMD Group.
 
-Team projects:
-1. [Taukhid](https://www.github.com/samCukid)
-
 Feature:
 1. Review code from file(Python)
 2. Review code from file folder and Github Repository(All projects Software Development)
