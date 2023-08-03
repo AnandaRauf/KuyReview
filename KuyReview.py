@@ -10,7 +10,6 @@ istools= "For review code from file,from folder, and from Github repository\n"
 versi = "1.0.0\n"
 devby = "Ananda Rauf Maududi\n"
 devdate = "02 August 2023\n"
-timcollab = "Tim Collab: 1. Mas Taukhid\n"
 product= "Product from TMD Group\n"
 
 print(nama)
@@ -18,7 +17,6 @@ print(istools)
 print(versi)
 print(devby)
 print(devdate)
-print(timcollab)
 print(product)
 
 print("---------------------------------------------------------------------------------\n")
